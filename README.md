@@ -1,11 +1,15 @@
-## Hi there 👋 I'm _Mabel_! ☆*: .｡. o(≧▽≦)o .｡.:*☆
+# Hi there 👋 I'm _Mabel_! ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
-# _About Me!_
+## _About Me!_
 I am currently an undergrad student studying Computer Science at the University of Texas at Arlington! Outside of school, I love crocheting, drawing, painting, etc. Anything that has to do with arts and crafts, count me in 😁!  Still looking to build consistent coding skills and resume-worthy projects outside of school. 
 
 ---
 
-# Let's Connect
+## What I know (... or what I'm trying to know)
+
+---
+
+## Let's Connect
 
 
 
