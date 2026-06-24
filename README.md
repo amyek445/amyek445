@@ -12,7 +12,9 @@ I am currently an undergrad student studying Computer Science at the University 
 ## 📫 Let's Connect
 
 
+---
 
+## 💻 Projects so Far (✿◡‿◡)
 
 
 <!--
