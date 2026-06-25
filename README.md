@@ -10,9 +10,9 @@ I am currently an undergrad student studying Computer Science at the University 
 ---
 
 ## 📫 Let's Connect
-[LinkedIn](linkedin.com/in/mabel-pokoo-64759b357)
-[Email](amyekua2@gmail.com)
-[Pinterest](https://pin.it/61mmvrpTq)
+* [LinkedIn](linkedin.com/in/mabel-pokoo-64759b357)
+* [Email](amyekua2@gmail.com)
+* [Pinterest](https://pin.it/61mmvrpTq)
 
 ---
 
